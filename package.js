@@ -15,11 +15,3 @@ Package.onUse(function(api) {
   api.addAssets('ionic/fonts/ionicons.ttf', 'client');
   api.addAssets('ionic/fonts/ionicons.woff', 'client');
 });
-
-Package.onTest(function(api) {
-  api.use('ecmascript');
-  api.use('tinytest');
-  api.use('veeramarni:ionic-css');
-  api.addFiles('ionic/css/ionic.css', 'client');
-  api.addAssets('ionic/fonts/ionic', 'client');
-});
