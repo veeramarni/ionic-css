@@ -1,6 +1,6 @@
 Package.describe({
   name: 'veeramarni:ionic-css',
-  version: '0.0.1',
+  version: '1.2.4',
   // Brief, one-line summary of the package.
   summary: '',
   // URL to the Git repository containing the source code for this package.
