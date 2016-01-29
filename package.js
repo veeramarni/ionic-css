@@ -1,7 +1,7 @@
 Package.describe({
   name: 'veeramarni:ionic-css',
   version: '1.2.4',
-  summary: 'Ionic's CSS Framework in CSS and bundled for Meteor.',
+  summary: "Ionic's CSS Framework in CSS and bundled for Meteor.",
   git: 'https://github.com/veeramarni/ionic-css.git',
   documentation: 'README.md'
 });
